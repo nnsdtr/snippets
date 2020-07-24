@@ -16,8 +16,8 @@ snippet cabecalho
 	##
 	## Running on:
 	##   - OS: `r paste(sessionInfo()$running)`
-	##   - Timezone: `r paste(Sys.timezone())`
 	##   - Language: `r paste(sessionInfo()$R.version$version.string)`
+	##   - Timezone: `r paste(Sys.timezone())`
 	##
 	##===========================================================================##
 

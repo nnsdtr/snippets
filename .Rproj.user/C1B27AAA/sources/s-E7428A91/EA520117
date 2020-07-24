@@ -3,7 +3,7 @@
     "path": "S:/pCloud/_R_Projects/snippets/r.snippets",
     "project_path": "r.snippets",
     "type": "snippets",
-    "hash": "0",
+    "hash": "3680795552",
     "contents": "",
     "dirty": false,
     "created": 1595624124225.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "30,0",
-        "scrollLine": "9"
+        "cursorPosition": "17,44",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1595630175,
+    "lastKnownWriteTime": 1595630799,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1595630175851,
+    "last_content_update": 1595630799027,
     "read_only": false,
     "read_only_alternatives": []
 }
